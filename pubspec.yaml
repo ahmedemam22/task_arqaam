@@ -49,6 +49,10 @@ dev_dependencies:
   hexcolor: ^2.0.7
   shared_preferences: ^2.0.15
   loading_animations: ^2.2.0
+  shimmer: ^2.0.0
+  syncfusion_flutter_charts: ^20.2.36
+  http: ^0.13.4
+  flutter_easyloading: ^3.0.5
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
